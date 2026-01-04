@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Method",
+  "base_artist": "Kroi",
+  "createdAt": "2026-01-04T09:57:33.464876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "4,3,2,1 (feat. Cannibus, DMX, Method Man & Redman)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_4,3,2,1_(feat._Cannibus,_DMX,_Method_Man_&_Redman)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "4, 3, 2, 1 (feat. Redman and Method Man, Cannibus & DMX)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/02_4,_3,_2,_1_(feat._Redman_and_Method_Man,_Cannibus_&_DMX)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bring the Pain (feat. Method Man)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/03_Bring_the_Pain_(feat._Method_Man)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dog In Heat (feat. Redman & Method Man)",
+      "artist": "Missy Elliott feat. Redman & Method Man",
+      "has_synced": true,
+      "path": "select/04_Dog_In_Heat_(feat._Redman_&_Method_Man)_Missy_Elliott_feat._Redman_&_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dog In Heat (Ft. Redman And Method Man)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/05_Dog_In_Heat_(Ft._Redman_And_Method_Man)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Frozen (feat. Method Man, Killa Priest and Chris Rivers)",
+      "artist": "Wu-Tang Clan feat. Method Man, Killa Priest & Chris Rivers",
+      "has_synced": true,
+      "path": "select/06_Frozen_(feat._Method_Man,_Killa_Priest_and_Chris_Rivers)_Wu-Tang_Clan_feat._Method_Man,_Killa_Priest_&_Chris_Rivers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Frozen (feat. Method Man, Killa Priest and Chris Rivers)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/07_Frozen_(feat._Method_Man,_Killa_Priest_and_Chris_Rivers)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fuhgidabowdit (feat. DMX, Method Man and Redman)",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/08_Fuhgidabowdit_(feat._DMX,_Method_Man_and_Redman)_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "G'd up (feat. Method Man, R-Mean and Mzee Jones)",
+      "artist": "Wu-Tang Clan feat. Method Man, R-Mean & Mzee Jones",
+      "has_synced": false,
+      "path": "select/09_G'd_up_(feat._Method_Man,_R-Mean_and_Mzee_Jones)_Wu-Tang_Clan_feat._Method_Man,_R-Mean_&_Mzee_Jones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "G'd up (feat. Method Man, R-Mean and Mzee Jones)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/10_G'd_up_(feat._Method_Man,_R-Mean_and_Mzee_Jones)_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hood Go Bang! (feat. Redman and Method Man)",
+      "artist": "Wu-Tang Clan feat. Redman & Method Man",
+      "has_synced": true,
+      "path": "select/11_Hood_Go_Bang!_(feat._Redman_and_Method_Man)_Wu-Tang_Clan_feat._Redman_&_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hood Go Bang! (feat. Redman and Method Man)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/12_Hood_Go_Bang!_(feat._Redman_and_Method_Man)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If Time Is Money (Fly Navigation) [feat. Method Man]",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/13_If_Time_Is_Money_(Fly_Navigation)_[feat._Method_Man]_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pearl Harbor (feat. Ghostface Killah, Method Man, RZA and Sean Price)",
+      "artist": "Wu-Tang Clan feat. Ghostface Killah, Method Man, RZA & Sean Price",
+      "has_synced": true,
+      "path": "select/14_Pearl_Harbor_(feat._Ghostface_Killah,_Method_Man,_RZA_and_Sean_Price)_Wu-Tang_Clan_feat._Ghostface_Killah,_Method_Man,_RZA_&_Sean_Price.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pearl Harbor (feat. Ghostface Killah, Method Man, RZA and Sean Price)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/15_Pearl_Harbor_(feat._Ghostface_Killah,_Method_Man,_RZA_and_Sean_Price)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Think I'm Paranoid (Crystal Method Remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/16_I_Think_I'm_Paranoid_(Crystal_Method_Remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Think I'm Paranoid (Crystal Method)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/17_I_Think_I'm_Paranoid_(Crystal_Method)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dog In Heat (featuring Redman & Method Man) (LP Version)",
+      "artist": "Missy Elliott feat. Redman & Method Man",
+      "has_synced": true,
+      "path": "select/18_Dog_In_Heat_(featuring_Redman_&_Method_Man)_(LP_Version)_Missy_Elliott_feat._Redman_&_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Dog in Heat (feat. Method Man & Redman)",
+      "artist": "Missy Elliott",
+      "has_synced": true,
+      "path": "select/19_Dog_in_Heat_(feat._Method_Man_&_Redman)_Missy_Elliott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Method",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_Method_Kroi.txt"
+    }
+  ]
+}
